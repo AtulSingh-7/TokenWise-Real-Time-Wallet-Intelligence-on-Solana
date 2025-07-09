@@ -110,8 +110,8 @@ This project is licensed under the MIT License.
 ## 📬 Contact
 
 Created by **Atul Singh**  
-- GitHub: [@your-username](https://github.com/your-username)  
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)  
-- Email: your-email@example.com
+- GitHub: [@AtulSingh-7](http://github.com/AtulSingh-7)  
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/atul-singh-96b86528b/)  
+- Email: atulnara5@gmail.com
 
 ---
